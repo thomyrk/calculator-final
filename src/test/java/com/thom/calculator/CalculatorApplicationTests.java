@@ -1,4 +1,4 @@
-package com.thom.caluclator;
+package com.thom.calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
