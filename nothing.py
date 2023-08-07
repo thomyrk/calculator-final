@@ -1,3 +1,3 @@
 #test
 #test
-print("day")
+print("day 1")
